@@ -1,6 +1,6 @@
 # CS311 Data Structures Repository
 
-Welcome to the CS311 Data Structures repository for the Computer Science program at California State University San Marcos (CSUSM). This repository serves as a comprehensive resource for the course, offering a centralized hub for lecture notes, assignments, projects, and additional materials.
+Welcome to the CS311 Data Structures repository for the Computer Science program at California State University San Marcos (CSUSM). This repository serves as a comprehensive resource for the course, offering a centralized hub for lecture notes, assignments, projects, and additional materials. Please do not copy!
 
 ## Table of Contents
 
@@ -30,3 +30,5 @@ To get started with the repository, follow these steps:
 1. Clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/your-username/CS311-Data-Structures.git
+
+
